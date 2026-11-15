@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://8aniu5dxm4xx"]
+
+[ext_resource type="Script" uid="uid://bk6j4ytwtulf3" path="res://addons/Link to PngUtils/png.gd" id="1_vgsrt"]
+
+[node name="Png" type="Node2D" unique_id=565425455]
+script = ExtResource("1_vgsrt")
+dest = "res://assets/hub"
+colors = 16
+speed = 2
